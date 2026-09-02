@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://kumagod.netlify.app"><img src="https://img.shields.io/badge/Netlify_Deploy-kumagod.netlify.app-00C7B7?logo=netlify&logoColor=white" alt="Netlify Deploy"></a>
+  <a [![Netlify Status](https://api.netlify.com/api/v1/badges/abebfbaf-e133-41b9-baf6-2126c6887fc6/deploy-status)](https://app.netlify.com/projects/kumagod/deploys)</a>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
