@@ -1,4 +1,4 @@
-# Ahren / Visuals
+# Portfolio
 
 <p align="center">
   <strong>A clean, expressive portfolio for visual design.</strong><br>
