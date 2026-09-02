@@ -36,4 +36,4 @@
 
 ---
 
-© 2026 Ahren Shalih Mustafa Aryadi · [MIT License](LICENSE)
+© 2026 Ahren Shalih Mustafa Aryadi
