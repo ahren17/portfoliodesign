@@ -22,11 +22,11 @@
 
 ## Tech Stack
 
-- HTML5 — semantic, responsive structure
-- Tailwind CSS — utility-first styling via CDN
-- JavaScript — lightweight interactions and animations
-- Canva — extended portfolio showcase
-- Netlify — hosting and deployment
+- HTML5 - Structure
+- Tailwind CSS - Styling via CDN
+- JavaScript - Interactions and Animations
+- Canva - Extended Portfolio Showcase
+- Netlify - Hosting and Deployment
 
 ## Connect
 
